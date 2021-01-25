@@ -1,4 +1,4 @@
-#HSassets(Hardware/software)
+# HSassets(Hardware/software)
 ### My 18 week Project: Cloud Application Developer
 
 
