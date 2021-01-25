@@ -1,8 +1,8 @@
 # HSassets(Hardware/software)
 ### My 18 week web application Project: Cloud Application Developer for MSSA
 
-Rafael Gomez
-23 Jan 2021
++ Rafael Gomez
++ 23 Jan 2021
 
 #### Introduction
 Asset Management/Life-Cycle 
