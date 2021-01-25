@@ -6,7 +6,7 @@ Rafael Gomez
 23 Jan 2021
 
 #### Introduction
-**Asset Management/Life-Cycle 
+**Asset Management/Life-Cycle** 
 
 This will consist of managing devices such as organizational computers, printers, and business cellphones by annotating the devices serial number, model number, current OS, and in some cases their purpose. Most devices will need to go through a life-cycle management process due to the constant upgrade of technology and software updates (to include OS) associated with old and new devices.
 
