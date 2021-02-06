@@ -23,4 +23,6 @@ Things that will be included in this website;
 
 Project 4 _HSassets(Hardware_software) Database Design_Rafael_Gomez.pdf
 
+https://github.com/Rafael29242/HSassets/blob/main/Project%204%20_HSassets(Hardware_software)%20Database%20Design_Rafael_Gomez.pdf
+
 
