@@ -19,5 +19,7 @@ Things that will be included in this website;
 +	A search bar that will allow you to search equipment within the organization.
 +	Various roles to manage each branch’s administrative rights (Developer, Administrator, Chief Integration Officer, Integration Management Officer, Approver, and Jr Integration Manager).
 
+#### HSassets Database Diagram
+
 
 
