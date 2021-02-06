@@ -21,5 +21,6 @@ Things that will be included in this website;
 
 #### HSassets Database Diagram
 
+Project 4 _HSassets(Hardware_software) Database Design_Rafael_Gomez.pdf
 
 
