@@ -36,3 +36,7 @@ https://github.com/Rafael29242/HSassets/blob/main/Project%205_HSassets(Hardware_
 Project 7_HSassets(Hardware_software) WenDesign Design_Rafael_Gomez.pdf is located in the link below
 
 https://github.com/Rafael29242/HSassets/blob/main/Project_7_WireFraming.pdf
+
+#### HSasssets Client ID info Web application
+
+Project8's Model, Controller, and View file is currently within main HSassets page as separate files.
