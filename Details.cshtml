@@ -1,0 +1,44 @@
+﻿@model Client
+
+    <h1>HSassets</h1>
+    <h2><font size="4"> Hardware Software Assets </font></h2>
+    <h3 style="border:black; border-width:5px; border-style:solid;">Home__Registration Request__Equipment__Admin__Records__Reports</h3>
+
+    <!-- <h1>Equipment Management </h1> -->
+    <fieldset class="align-top border custom-control" -inline mb-4 p-2 shadow">
+        <legend><span style="color: red;">Equipment Management</span></legend>
+
+
+
+
+        <table>
+
+            <thead>
+                <tr>
+                    <th>Name:</th>
+                    <th>Branch:</th>
+                    <th>Clientid:</th>
+                </tr>
+            </thead>
+
+            <tr> <td colspan="2"> <hr /></td></tr>
+
+            <tbody>
+                <tr>
+                    <td>@Model.Name</td>
+                    <td>@Model.Branch</td>
+                    <td>@Model.Clientid</td>
+                </tr>
+
+                <tr> <td colspan="2"> <hr /></td></tr>
+
+            </tbody>
+            <tr>
+                <td class="text-center" colspan="2">
+                    <button class="btn-sm btn-info ml-1 mr-1"> View Assets</button>
+                    <button class="btn-sm btn-info ml-1 mr-1"> Export list to Excel</button>
+                </td>
+            </tr>
+        </table>
+
+    </fieldset>
