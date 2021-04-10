@@ -40,3 +40,7 @@ https://github.com/Rafael29242/HSassets/blob/main/Project_7_WireFraming.pdf
 #### HSasssets Client ID info Web application
 
 Project8's Model, Controller, and View file is currently within main HSassets page as separate files.
+
+#### Created a GitRepository for Hardware Asset Tracker ASP.NET MVC
+
+https://github.com/Rafael29242/Hardware-Asset-Tracker
